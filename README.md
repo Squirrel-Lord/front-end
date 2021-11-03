@@ -1,7 +1,3 @@
-# PolyVertex Front-End
-Please test locally before submitting a Pull Request.
+# PolySquirrel Front-End
 
-To test locally:
-- Run `npm i` in the root directory (front-end)
-- Run `npm run start` in the root directory
-- Your browser should open to the website. If it doesn't, open your browser and navigate to `localhost:3000`
+Frontend based on PolyVertex. We need styles and designs...
